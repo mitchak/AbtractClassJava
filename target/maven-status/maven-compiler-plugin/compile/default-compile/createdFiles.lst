@@ -1,0 +1,14 @@
+Models/Escaleno.class
+com/mycompany/figurasbasicas/FigurasBasicas.class
+Models/Trapecio.class
+Controlador/Fabrica.class
+Models/Figura.class
+Models/Equilatero.class
+Views/PanelLienzo.class
+Views/FormularioJFrame.class
+Models/Isosceles.class
+Models/Punto2d.class
+Models/Triangulo.class
+Controlador/ControlFiguras.class
+Models/Cuadrado.class
+Models/Cuadrilatero.class
